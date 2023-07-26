@@ -14,7 +14,7 @@
 	<name>users-base</name>
 	<description>Test study project for Telros</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>19</java.version>
 		<vaadin.version>24.1.4</vaadin.version>
 	</properties>
 	<dependencies>
